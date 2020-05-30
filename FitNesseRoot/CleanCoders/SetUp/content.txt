@@ -1,0 +1,8 @@
+| import |
+| cleancoderscom.fixtures |
+
+| library |
+| codecast presentation |
+| codecast details |
+
+| Fixture setup |
